@@ -6,3 +6,12 @@ Below are some screenshots from games that inspired ours
 
 ### Super Mario Brothers
 ![](mario.jpg)
+
+### Metroid
+![](metroid.jpg)
+
+### MegaMan
+![](megaman.jpg)
+
+### Castlevania
+![](castlevania.jpg)
