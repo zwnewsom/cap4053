@@ -14,4 +14,4 @@ Below are some screenshots from games that inspired ours
 ![](megaman.jpg)
 
 ### Castlevania
-![](castlevania.jpg)
+![](castlevania.png)
